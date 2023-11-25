@@ -1,7 +1,7 @@
 
-# Desafios da Alura
+# Desafio 1 - Conta Bancaria
 
-Neste repositorio, irá conter a resoluçao dos desafios propostos na plataforma da Alura, na formaçao de Java
+Nesta branch, irá conter a resolução do primeiro desafio proposto na plataforma da Alura, na formação de Java. Que consiste em fazer uma aplicação de 'controle de conta'.
 
 
 ## Referência
